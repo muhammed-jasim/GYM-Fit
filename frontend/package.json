@@ -1,0 +1,26 @@
+{
+  "name": "webryxon-fit-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.13.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@mui/material-nextjs": "^5.16.6",
+    "axios": "^1.7.7",
+    "canvas-confetti": "^1.9.3",
+    "date-fns": "^3.6.0",
+    "next": "14.2.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^2.13.0",
+    "zustand": "^4.5.5"
+  }
+}
